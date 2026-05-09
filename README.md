@@ -2,7 +2,7 @@
 
 **Software Architect & AI Systems Builder**  
 Agentic AI orchestration · Scientific computing · SaaS & Legal-Tech  
-📍 Haifa, Israel · [LinkedIn](https://linkedin.com/in/liran-schwartz) · [ORCID](https://orcid.org/0009-0008-8035-1308)
+📍 Haifa, Israel · [ORCID](https://orcid.org/0009-0008-8035-1308)
 
 ---
 
