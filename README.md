@@ -1,6 +1,6 @@
 # Liran Schwartz · LiranOG
 
-**Software Architect & AI Systems Builder**  
+**Software Architect & AI Systems Architect**  
 Agentic AI orchestration · Scientific computing · SaaS Architecture   
 📍 Haifa, Israel · [ORCID](https://orcid.org/0009-0008-8035-1308)
 
