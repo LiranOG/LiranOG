@@ -12,8 +12,8 @@ Agentic AI orchestration · Scientific computing · SaaS Architecture
 |---------|-------------|-------|
 | [GRANITE-NR](https://github.com/LiranOG/Granite-NR) | C++17 Numerical relativity engine — CCZ4, GRMHD, AMR, HDF5 | C++, OpenMP, HDF5 |
 | [VORTEX](https://github.com/LiranOG/VORTEX) | Relativistic PN N-body simulator — browser-based Post-Newtonian compact-object dynamics sandbox | JS, Three.js, WebGL |
-| [LOITER-SIM](https://github.com/LiranOG/LOITER-SIM) *(WIP)* | Deterministic C++17 drone swarm simulation engine — counter-UAS & multi-agent RL | C++, Python *(design phase)* |
-| [DraftyOS](https://github.com/LiranOG/DraftyOS) *(Private)* | AI legal-tech platform for the Israeli market — B2C citizen rights + B2B lawyer tools. Architecture, strategy & regulatory framework complete. Seeking investment. | Next.js, TypeScript *(in development)* |
+| [LOITER-SIM](https://github.com/LiranOG/LOITER-SIM) *(WIP)* | Deterministic C++17 drone swarm simulation engine — counter-UAS & multi-agent RL [Status: Design Phase] | C++, Python |
+| [DraftyOS](https://github.com/LiranOG/DraftyOS) *(Private)* | AI legal-tech platform for the Israeli market — B2C citizen rights + B2B lawyer tools. Architecture, strategy & regulatory framework complete. Seeking investment [Status: In Development] | Next.js, TypeScript |
 
 > **DraftyOS** is a private repository. Full architecture and documentation available to serious investors and partners upon request — contact me directly.
 >
@@ -28,3 +28,11 @@ Agentic AI orchestration · Scientific computing · SaaS Architecture
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js)
 ![Three.js](https://img.shields.io/badge/Three.js-black?style=flat&logo=three.js)
+
+---
+
+### A Note on My Development Ecosystem:
+I am a solo architect and developer behind all the projects, theories, and repositories presented here. Because my work spans across highly complex and diverse fields—from theoretical physics to AI-driven Systems. most of the repositories here are active works-in-progress.  
+They are currently in various active stages of development, ranging from initial architectural design to advanced implementation.
+
+While not everything is perfectly polished yet, I am continuously iterating and deeply committed to bringing every single project to the highest standard of completion.
