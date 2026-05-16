@@ -12,8 +12,8 @@ Agentic AI orchestration · Scientific computing · SaaS Architecture
 |---------|-------------|-------|
 | [GRANITE-NR](https://github.com/LiranOG/Granite-NR) | C++17 Numerical relativity engine — CCZ4, GRMHD, AMR, HDF5 | C++, OpenMP, HDF5 |
 | [VORTEX](https://github.com/LiranOG/VORTEX) | Relativistic PN N-body simulator — browser-based Post-Newtonian compact-object dynamics sandbox | JS, Three.js, WebGL |
-| [LOITER-SIM](https://github.com/LiranOG/LOITER-SIM) *(WIP)* | Deterministic C++17 drone swarm simulation engine — counter-UAS & multi-agent RL [Status: Design Phase] | C++, Python |
-| [DraftyOS](https://github.com/LiranOG/DraftyOS) *(Private)* | AI legal-tech platform for the Israeli market — B2C citizen rights + B2B lawyer tools. Architecture, strategy & regulatory framework complete. Seeking investment [Status: In Development] | Next.js, TypeScript |
+| [LOITER-SIM](https://github.com/LiranOG/LOITER-SIM) *(WIP)* | Deterministic C++17 drone swarm simulation engine — counter-UAS & multi-agent RL **[Status: Design Phase]** | C++, Python |
+| [DraftyOS](https://github.com/LiranOG/DraftyOS) *(Private)* | AI legal-tech platform for the Israeli market — B2C citizen rights + B2B lawyer tools. Architecture, strategy & regulatory framework complete. Seeking investment **[Status: In Development]** | Next.js, TypeScript |
 
 > **DraftyOS** is a private repository. Full architecture and documentation available to serious investors and partners upon request — contact me directly.
 >
