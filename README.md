@@ -63,7 +63,7 @@ While not everything is perfectly polished yet, I am continuously iterating and 
 >   The `v0.7.0 → v1.0.0` roadmap resumes after the hiatus.
 >
 > - **[VORTEX](https://github.com/LiranOG/VORTEX)** —
->   *VORTEX ETERNITY.* Interactive relativistic N-body simulator
+>   Interactive sandbox relativistic N-body simulator
 >   running entirely in the browser. 2.5PN dynamics, full GW strain,
 >   Hermite-4 integrator with Kahan compensated summation,
 >   18 astrophysical scenarios (GW150914, GW170817, EMRI, ZKL, Sgr A*,
