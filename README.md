@@ -37,6 +37,7 @@ They are currently in various active stages of development, ranging from initial
 
 While not everything is perfectly polished yet, I am continuously iterating and deeply committed to bringing every single project to the highest standard of completion.
 
+---
 
 > [!IMPORTANT]
 > ### Personal Hiatus — May to August 2026
