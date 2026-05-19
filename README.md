@@ -6,7 +6,11 @@ Agentic AI orchestration · Scientific computing · SaaS Architecture
 
 ---
 
+<div align="center">
+
 ## 🔬 Featured Projects
+
+</div>
 
 | Project | Description | Stack |
 |---------|-------------|-------|
@@ -21,21 +25,19 @@ Agentic AI orchestration · Scientific computing · SaaS Architecture
 
 ---
 
-## 🛠 Stack
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js)
-![Three.js](https://img.shields.io/badge/Three.js-black?style=flat&logo=three.js)
-
----
-
 ### A Note on My Development Ecosystem:
 I am a solo architect and developer behind all the projects, theories, and repositories presented here. Because my work spans across highly complex and diverse fields—from theoretical physics to AI-driven Systems. most of the repositories here are active works-in-progress.  
 They are currently in various active stages of development, ranging from initial architectural design to advanced implementation.
 
 While not everything is perfectly polished yet, I am continuously iterating and deeply committed to bringing every single project to the highest standard of completion.
+
+<div align="center">
+
+## 🛠 Stack
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,ts,nextjs,threejs&theme=dark)](https://skillicons.dev)
+
+</div>
 
 ---
 
