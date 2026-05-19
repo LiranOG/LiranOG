@@ -1,9 +1,12 @@
 # Liran Schwartz · LiranOG
 
-**Software Architect & AI Systems Architect**  
-Agentic AI orchestration · Scientific computing · SaaS Architecture   
-📍 Haifa, Israel · [ORCID](https://orcid.org/0009-0008-8035-1308)
+### **Software Architect & AI Systems Architect** · Independent Researcher  
 
+Agentic AI Orchestration — High Performance Computing — Scientific Simulation — Scientific Computing Architecture — SaaS Architecture
+
+📍 Haifa, Israel · 🔗 [ORCID 0009-0008-8035-1308](https://orcid.org/0009-0008-8035-1308) · ✉ scliran9@gmail.com
+
+ 
 ---
 
 <div align="center">
@@ -14,10 +17,10 @@ Agentic AI orchestration · Scientific computing · SaaS Architecture
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [GRANITE-NR](https://github.com/LiranOG/Granite-NR) | C++17 Numerical relativity engine — CCZ4, GRMHD, AMR, HDF5 | C++, OpenMP, HDF5 |
+| [GRANITE-NR](https://github.com/LiranOG/Granite-NR) | C++17 Numerical relativity engine — CCZ4, GRMHD, AMR, with radiation/neutrino transport and tabulated nuclear EOS modules pending RK3 integration | C++, Python, HDF5, OpenMP, MPI |
 | [VORTEX](https://github.com/LiranOG/VORTEX) | Relativistic PN N-body simulator — browser-based Post-Newtonian compact-object dynamics sandbox | JS, Three.js, WebGL |
 | [LOITER-SIM](https://github.com/LiranOG/LOITER-SIM) *(WIP)* | Deterministic C++17 drone swarm simulation engine — counter-UAS & multi-agent RL ***[Status: Design Phase]*** | C++, Python |
-| [DraftyOS](https://github.com/LiranOG/DraftyOS) *(Private)* | AI legal-tech platform for the Israeli market — B2C citizen rights + B2B lawyer tools. Architecture, strategy & regulatory framework complete. Seeking investment ***[Status: In Development]*** | Next.js, TypeScript |
+| [DraftyOS](https://github.com/LiranOG/DraftyOS) *(Private)* | AI legal-tech platform for the Israeli market — B2C citizen rights + B2B lawyer tools. Architecture, strategy & regulatory framework complete. Open to partnerships and investment discussions. ***[Status: In Development]*** | React, Next.js, TypeScript |
 
 > **DraftyOS** is a private repository. Full architecture and documentation available to serious investors and partners upon request — contact me directly.
 >
@@ -26,7 +29,7 @@ Agentic AI orchestration · Scientific computing · SaaS Architecture
 ---
 
 ### A Note on My Development Ecosystem:
-I am a solo architect and developer behind all the projects, theories, and repositories presented here. Because my work spans across highly complex and diverse fields—from theoretical physics to AI-driven Systems. most of the repositories here are active works-in-progress.  
+I am a solo developer and researcher behind all the projects, theories, and repositories presented here. Because my work spans across highly complex and diverse fields—from theoretical physics to AI-driven Systems. most of the repositories here are active works-in-progress.  
 They are currently in various active stages of development, ranging from initial architectural design to advanced implementation.
 
 While not everything is perfectly polished yet, I am continuously iterating and deeply committed to bringing every single project to the highest standard of completion.
@@ -35,7 +38,7 @@ While not everything is perfectly polished yet, I am continuously iterating and 
 
 ## 🛠 Stack
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,py,ts,nextjs,threejs&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,ts,react,nextjs,threejs&theme=dark)](https://skillicons.dev)
 
 </div>
 
