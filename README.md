@@ -36,3 +36,42 @@ I am a solo architect and developer behind all the projects, theories, and repos
 They are currently in various active stages of development, ranging from initial architectural design to advanced implementation.
 
 While not everything is perfectly polished yet, I am continuously iterating and deeply committed to bringing every single project to the highest standard of completion.
+
+
+> [!IMPORTANT]
+> ### Brief Personal Hiatus — May to August 2026
+>
+> I am taking a short break from active development to address some
+> matters in my personal life. To be explicit about one point:
+> **none of my projects have been abandoned.** Every repository remains
+> public, every published version is stable, and I fully intend to
+> return to all of them.
+>
+> **Main project that currently is on hold (all stable, all functional):**
+> - **[GRANITE-NR](https://github.com/LiranOG/Granite-NR)** — General-
+>   relativistic numerical engine. Current release `v0.6.8` (Architecture
+>   & Stability), 105 / 107 tests passing, validated stable through
+>   t = 500 M on `single_puncture` and `B2_eq`. Active development
+>   toward `v0.7.0` resumes after the hiatus.
+>
+> **What this hiatus means in practice:**
+> - Issues, pull requests, discussions, and collaboration inquiries
+>   on any of my repositories will be read and answered in full when
+>   I return. Nothing gets dropped.
+> - Replies during the hiatus may be slow or absent. This is a
+>   deliberate, time-bounded pause — not disengagement.
+> - Citations, downstream use, and forks continue under the existing
+>   licenses without restriction.
+>
+> **Note on roadmaps and target dates.** A multi-month pause affects
+> downstream milestones. All published target dates — particularly the
+> `v0.7.0 → v1.0.0` roadmap on GRANITE-NR and the roadmap on LOITER-SIM — will be re-evaluated and
+> revised upon return, in the relevant `CHANGELOG.md`. I would rather
+> publish revised dates that I can meet than hold to a schedule that
+> no longer reflects reality.
+>
+> **Expected return:** approximately **June–August 2026.**
+>
+> Thank you for your understanding.
+>
+> — *Liran M. Schwartz*
