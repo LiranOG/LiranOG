@@ -56,7 +56,7 @@ While not everything is perfectly polished yet, I am continuously iterating and 
 >   `single_puncture` and `B2_eq` benchmarks validated stable
 >   through t = 500 M. The engine is buildable, runnable, and
 >   citable
->   (DOI: [10.5281/zenodo.19502265](https://doi.org/10.5281/zenodo.19502265)).
+>   (DOI: [10.5281/zenodo.20284043](https://doi.org/10.5281/zenodo.20284043)).
 >   The `v0.7.0 → v1.0.0` roadmap resumes after the hiatus.
 >
 > - **[VORTEX](https://github.com/LiranOG/VORTEX)** —
