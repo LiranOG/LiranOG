@@ -109,5 +109,5 @@ While not everything is perfectly polished yet, I am continuously iterating and 
 >
 > Thank you for your patience and your continued interest.
 >
-> — *Liran M. Schwartz*
+> — *Liran M. Schwartz*  
 > Contact: `scliran9@gmail.com` · ORCID: [0009-0008-8035-1308](https://orcid.org/0009-0008-8035-1308)
