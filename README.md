@@ -1,4 +1,4 @@
-# Liran Schwartz · LiranOG
+<div align="center">
 
 ### **Software Architect & AI Systems Architect** | Independent Researcher  
 
@@ -6,7 +6,8 @@ Agentic AI Orchestration · High Performance Computing · Scientific Simulation 
 
 *📍 Haifa, Israel · 🔗 [ORCID 0009-0008-8035-1308](https://orcid.org/0009-0008-8035-1308) · ✉ scliran9@gmail.com*
 
- 
+ </div>
+
 ---
 
 <div align="center">
