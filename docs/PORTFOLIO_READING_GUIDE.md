@@ -21,10 +21,10 @@ That sentence is the entire guide compressed. The rest of this document expands 
 
 | Document | Length | Tone | Best for | What you will find |
 |---|---|---|---|---|
-| **[RESEARCH.md](docs/RESEARCH.md)** | ~6,500 words | Cold, technical, factual | Engineers, physicists, HPC reviewers, NR specialists, technical recruiters | The actual portfolio: GRANITE-NR, VORTEX, the Astrophysics Suite, SDSS Cosmic IB, LOITER-SIM, OADF — with benchmarks, limitations, and honest roadmaps |
-| **[THEORIES.md](docs/THEORIES.md)** | ~3,400 words | Structured, epistemically careful | Information theorists, cosmologists, complex systems researchers, SETI theorists, philosophers of mind | FCT/UIBIC, CFD, CAT, COE-F — speculative theoretical frameworks with explicit status markers and per-framework limitations |
-| **[VISION.md](docs/VISION.md)** | ~6,300 words | Personal, philosophical, direct | Anyone who wants the human context — why any of this exists, what I think is at stake, what I am actually trying to say | The motivation behind the work: complexity, the Kardashev transition, the Great Filter, what truth means to me |
-| **[COLLABORATE.md](docs/COLLABORATE.md)** | ~2,100 words | Operational, specific | Domain experts who can help with something concrete — running a benchmark, reviewing code, critiquing a theory, identifying prior literature | Per-project specific asks, response time expectations, how to reach me, what useful contribution looks like |
+| **[RESEARCH.md](./RESEARCH.md)** | ~6,500 words | Cold, technical, factual | Engineers, physicists, HPC reviewers, NR specialists, technical recruiters | The actual portfolio: GRANITE-NR, VORTEX, the Astrophysics Suite, SDSS Cosmic IB, LOITER-SIM, OADF — with benchmarks, limitations, and honest roadmaps |
+| **[THEORIES.md](./THEORIES.md)** | ~3,400 words | Structured, epistemically careful | Information theorists, cosmologists, complex systems researchers, SETI theorists, philosophers of mind | FCT/UIBIC, CFD, CAT, COE-F — speculative theoretical frameworks with explicit status markers and per-framework limitations |
+| **[VISION.md](./VISION.md)** | ~6,300 words | Personal, philosophical, direct | Anyone who wants the human context — why any of this exists, what I think is at stake, what I am actually trying to say | The motivation behind the work: complexity, the Kardashev transition, the Great Filter, what truth means to me |
+| **[COLLABORATE.md](./COLLABORATE.md)** | ~2,100 words | Operational, specific | Domain experts who can help with something concrete — running a benchmark, reviewing code, critiquing a theory, identifying prior literature | Per-project specific asks, response time expectations, how to reach me, what useful contribution looks like |
 
 Each document serves a different purpose and should be evaluated by the standard appropriate to its category.
 
@@ -50,53 +50,53 @@ These paths assume you have already read `RESEARCH.md`, or that you are going to
 
 ### If you are a numerical relativity / GRMHD researcher
 
-1. **[RESEARCH.md](docs/RESEARCH.md)** — focus on Section 1 (Astrophysics Suite — the analytical work behind GRANITE-NR) and Section 2 (GRANITE-NR itself, including the comprehensive limitations table).
+1. **[RESEARCH.md](./RESEARCH.md)** — focus on Section 1 (Astrophysics Suite — the analytical work behind GRANITE-NR) and Section 2 (GRANITE-NR itself, including the comprehensive limitations table).
 2. **GRANITE-NR repository** directly — look at `tests/`, `src/ccz4/`, `src/grmhd/`, `src/amr/`. The 107 GoogleTest unit tests across 20 suites are where the implementation claims can be verified.
-3. **[COLLABORATE.md](docs/COLLABORATE.md)** Section "GRANITE-NR" — specific tasks where outside expertise would matter, including the lapse stabilization anomaly and the convergence ordering issue.
+3. **[COLLABORATE.md](./COLLABORATE.md)** Section "GRANITE-NR" — specific tasks where outside expertise would matter, including the lapse stabilization anomaly and the convergence ordering issue.
 4. Skip `THEORIES.md` unless you are also interested in the speculative consciousness framework. The engineering does not depend on it.
 
 ### If you are an astrophysicist or general physicist
 
-1. **[RESEARCH.md](docs/RESEARCH.md)** in full — the six projects span numerical relativity, post-Newtonian dynamics, observational cosmology, atmospheric thermodynamics, and architectural specification work.
+1. **[RESEARCH.md](./RESEARCH.md)** in full — the six projects span numerical relativity, post-Newtonian dynamics, observational cosmology, atmospheric thermodynamics, and architectural specification work.
 2. Treat each project by its maturity level: GRANITE-NR is active code, VORTEX is stable, SDSS is functional, OADF is a working paper, LOITER-SIM is spec only, the Astrophysics Suite is a closed archive.
-3. **[THEORIES.md](docs/THEORIES.md)** — only after separating validated physics from speculative frameworks. The SDSS pipeline tests a prediction from FCT; the prediction is unconfirmed.
-4. **[COLLABORATE.md](docs/COLLABORATE.md)** — for anything you can specifically help with.
+3. **[THEORIES.md](./THEORIES.md)** — only after separating validated physics from speculative frameworks. The SDSS pipeline tests a prediction from FCT; the prediction is unconfirmed.
+4. **[COLLABORATE.md](./COLLABORATE.md)** — for anything you can specifically help with.
 
 ### If you are an information theorist or work on consciousness
 
-1. **[THEORIES.md](docs/THEORIES.md)** Section 1 — Fractal Cosmopsychism Theory (FCT/UIBIC). This is the framework that applies Information Bottleneck theory to consciousness across scales. Read the limitations table carefully — the galactic extension is the most fragile component.
-2. **[RESEARCH.md](docs/RESEARCH.md)** Section 5 — the SDSS Cosmic IB analysis pipeline that empirically tests FCT. The measured η_IB ≈ 0.0045 vs predicted ≈ 0.42 is a ~93× gap that is not yet explained.
-3. **[COLLABORATE.md](docs/COLLABORATE.md)** — the FCT-specific asks. The most useful contribution would be diagnosing whether the empirical gap is methodological or theoretical.
+1. **[THEORIES.md](./THEORIES.md)** Section 1 — Fractal Cosmopsychism Theory (FCT/UIBIC). This is the framework that applies Information Bottleneck theory to consciousness across scales. Read the limitations table carefully — the galactic extension is the most fragile component.
+2. **[RESEARCH.md](./RESEARCH.md)** Section 5 — the SDSS Cosmic IB analysis pipeline that empirically tests FCT. The measured η_IB ≈ 0.0045 vs predicted ≈ 0.42 is a ~93× gap that is not yet explained.
+3. **[COLLABORATE.md](./COLLABORATE.md)** — the FCT-specific asks. The most useful contribution would be diagnosing whether the empirical gap is methodological or theoretical.
 
 ### If you work on SETI / Fermi Paradox / complex systems
 
-1. **[THEORIES.md](docs/THEORIES.md)** Sections 2–4 — CFD (Coupled Functional Differentiation), CAT (Civilization Asynchrony Theory), and the Chrono-Optical-Eusocial Fermi Model.
+1. **[THEORIES.md](./THEORIES.md)** Sections 2–4 — CFD (Coupled Functional Differentiation), CAT (Civilization Asynchrony Theory), and the Chrono-Optical-Eusocial Fermi Model.
 2. Treat them as structured speculative arguments, not as validated models. Each section has a per-framework limitations table.
-3. **[COLLABORATE.md](docs/COLLABORATE.md)** Theoretical Contributions section — the highest-value contribution here would be pointing me to existing literature that already formalizes mechanisms I claim are original.
+3. **[COLLABORATE.md](./COLLABORATE.md)** Theoretical Contributions section — the highest-value contribution here would be pointing me to existing literature that already formalizes mechanisms I claim are original.
 
 ### If you are a software engineer or technical reviewer
 
-1. **[RESEARCH.md](docs/RESEARCH.md)** — focus on the engineering hygiene: test coverage, build systems, CI behavior, repository structure, documentation, reproducibility claims.
+1. **[RESEARCH.md](./RESEARCH.md)** — focus on the engineering hygiene: test coverage, build systems, CI behavior, repository structure, documentation, reproducibility claims.
 2. Identify which repositories are implemented (GRANITE-NR, VORTEX, SDSS pipeline) versus specification-stage (LOITER-SIM).
-3. **[COLLABORATE.md](docs/COLLABORATE.md)** — for concrete contribution targets across all projects. You do not need to engage with theoretical material to evaluate engineering quality.
+3. **[COLLABORATE.md](./COLLABORATE.md)** — for concrete contribution targets across all projects. You do not need to engage with theoretical material to evaluate engineering quality.
 
 ### If you are a philosopher, theorist, or thoughtful generalist
 
-1. **[VISION.md](docs/VISION.md)** — this is the only document that addresses the broader picture: why this work exists, what I think is at stake, the Kardashev transition, the Great Filter, the structure of truth and self-deception.
-2. **[THEORIES.md](docs/THEORIES.md)** — for the formal frameworks that try to put structure on some of what `VISION.md` discusses informally.
-3. **[RESEARCH.md](docs/RESEARCH.md)** — if you want to see what the philosophical motivation translates into in terms of concrete artifacts.
+1. **[VISION.md](./VISION.md)** — this is the only document that addresses the broader picture: why this work exists, what I think is at stake, the Kardashev transition, the Great Filter, the structure of truth and self-deception.
+2. **[THEORIES.md](./THEORIES.md)** — for the formal frameworks that try to put structure on some of what `VISION.md` discusses informally.
+3. **[RESEARCH.md](./RESEARCH.md)** — if you want to see what the philosophical motivation translates into in terms of concrete artifacts.
 
 ### If you are a potential collaborator
 
-1. **[RESEARCH.md](docs/RESEARCH.md)** — to understand the actual scope and current state of the portfolio.
-2. **[COLLABORATE.md](docs/COLLABORATE.md)** — to identify where your expertise would matter. The per-project lists are specific.
+1. **[RESEARCH.md](./RESEARCH.md)** — to understand the actual scope and current state of the portfolio.
+2. **[COLLABORATE.md](./COLLABORATE.md)** — to identify where your expertise would matter. The per-project lists are specific.
 3. Reach out with one concrete target rather than a general offer of help. Specific asks get specific responses; general ones get general ones.
 
 ### If you are a general reader without a specific technical background
 
-1. **[VISION.md](docs/VISION.md)** — the human context behind everything.
-2. **[RESEARCH.md](docs/RESEARCH.md)** — for an honest picture of what is actually built.
-3. **[THEORIES.md](docs/THEORIES.md)** — only if you are comfortable with material that is explicitly labeled as speculative. The status markers (🔴 Speculative, 🟡 Tested-Unresolved, 🟢 Grounded) tell you exactly how to read each framework.
+1. **[VISION.md](./VISION.md)** — the human context behind everything.
+2. **[RESEARCH.md](./RESEARCH.md)** — for an honest picture of what is actually built.
+3. **[THEORIES.md](./THEORIES.md)** — only if you are comfortable with material that is explicitly labeled as speculative. The status markers (🔴 Speculative, 🟡 Tested-Unresolved, 🟢 Grounded) tell you exactly how to read each framework.
 
 ---
 
@@ -129,10 +129,10 @@ The reverse also holds. The theoretical frameworks should be evaluated by standa
 For readers who want one clean path:
 
 1. **This guide.** You are reading it.
-2. **[RESEARCH.md](docs/RESEARCH.md)** — what exists, what is implemented, what is incomplete, what the limitations are.
-3. **[COLLABORATE.md](docs/COLLABORATE.md)** — what needs review, correction, testing, or contribution.
-4. **[THEORIES.md](docs/THEORIES.md)** — speculative frameworks, status-labeled and limitation-disclosed.
-5. **[VISION.md](docs/VISION.md)** — personal motivation and the broader picture.
+2. **[RESEARCH.md](./RESEARCH.md)** — what exists, what is implemented, what is incomplete, what the limitations are.
+3. **[COLLABORATE.md](./COLLABORATE.md)** — what needs review, correction, testing, or contribution.
+4. **[THEORIES.md](./THEORIES.md)** — speculative frameworks, status-labeled and limitation-disclosed.
+5. **[VISION.md](./VISION.md)** — personal motivation and the broader picture.
 
 This order is deliberate. It puts concrete artifacts before speculative interpretation, and operational specifics before motivational context.
 
