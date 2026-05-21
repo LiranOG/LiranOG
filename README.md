@@ -118,3 +118,17 @@ While not everything is perfectly polished yet, I am continuously iterating and 
 >
 > *Liran M. Schwartz*  
 > — Contact: `scliran9@gmail.com` · ORCID: [0009-0008-8035-1308](https://orcid.org/0009-0008-8035-1308)
+
+---
+
+## Extended Portfolio
+
+This profile contains four extended documents that go beyond what fits on the main page. They are deliberately separated by purpose and audience — engineering, theory, motivation, and collaboration are different categories of work, and mixing them into one first impression usually causes one of two failures: either readers dismiss serious engineering because it sits near speculative theory, or readers overweight speculative theory because it sits near serious engineering.
+
+To avoid both, the extended material lives in `/docs/` and is mapped by a short reading guide.
+
+**→ Start here: [Portfolio Reading Guide](./docs/PORTFOLIO_READING_GUIDE.md)**
+
+The guide tells you which of the four documents to open first based on what you actually care about — numerical relativity, simulation engineering, information theory, complex systems, the Fermi Paradox, collaboration opportunities, or the broader motivation behind the work. It also explains what each document is and is not, the epistemic scale used throughout, and what kinds of critique are useful.
+
+If you only read one extended document, the guide will tell you which one. For most technical readers, that document is [`RESEARCH.md`](./docs/RESEARCH.md) — the structured overview of the engineering portfolio with comprehensive limitations.
