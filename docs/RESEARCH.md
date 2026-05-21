@@ -46,7 +46,7 @@ These are the constraints. The work below was produced inside them, and every pr
 
 **The Complete Theoretical, Kinematic, and Computational Archive of Extreme Multi-Body Gravitational Physics**  
 `HTML` · `JavaScript` · `WebGL` · `LaTeX` · Analytical physics manuscripts  
-[→ Repository](https://github.com/LiranOG/GRANITE-Astrophysics-Suite) · [DOI: 10.5281/zenodo.19502265](https://doi.org/10.5281/zenodo.19502265)
+[→ Repository](https://github.com/LiranOG/GRANITE-Astrophysics-Suite) · [DOI: 10.5281/zenodo.19502264](https://doi.org/10.5281/zenodo.19502264)
 
 **Status:** Complete archive — actively referenced as the foundational layer of GRANITE-NR and VORTEX.
 
@@ -336,7 +336,7 @@ The Suite contains the foundational theoretical work for everything that followe
 
 **General-Relativistic Adaptive N-body Integrated Tool for Extreme Astrophysics**  
 `C++17` · `OpenMP` · `MPI` · `HDF5` · `Python`  
-[→ Repository](https://github.com/LiranOG/Granite-NR) · [DOI: 10.5281/zenodo.19502265](https://doi.org/10.5281/zenodo.19502265)
+[→ Repository](https://github.com/LiranOG/Granite-NR) · [DOI: 10.5281/zenodo.19502264](https://doi.org/10.5281/zenodo.19502264)
 
 **Current release:** v0.6.8 *(Architecture & Stability — released 9 May 2026)*
 
