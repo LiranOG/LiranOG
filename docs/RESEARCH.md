@@ -11,7 +11,7 @@ This is a technical inventory of the research and engineering work I have built,
 
 I do not claim institutional credentials I don't have, and I don't soften statuses I haven't earned. If you find anything in this document that overstates the work, treat it as a bug and report it.
 
-This document covers the **engineering and applied physics** side of my portfolio. For the speculative theoretical frameworks that motivate some of this work — and that I keep deliberately separated from the engineering — see [THEORIES.md](docs/THEORIES.md). For the broader context behind why I do any of this, see [VISION.md](docs/VISION.md). To contribute, see [COLLABORATE.md](docs/COLLABORATE.md).
+This document covers the **engineering and applied physics** side of my portfolio. For the speculative theoretical frameworks that motivate some of this work — and that I keep deliberately separated from the engineering — see [THEORIES.md](./THEORIES.md). For the broader context behind why I do any of this, see [VISION.md](./VISION.md). To contribute, see [COLLABORATE.md](./COLLABORATE.md).
 
 ---
 
@@ -526,7 +526,7 @@ The ~93× discrepancy is the central unresolved tension of this project. Possibl
 
 I cannot currently distinguish between these. The data and code are open. The most useful contribution a qualified cosmologist or information theorist could make is to look at the measurement methodology and tell me which is most likely true.
 
-> **Important:** This pipeline was built to test a theoretical prediction from FCT, which is a speculative framework (see [THEORIES.md](docs/THEORIES.md)). The pipeline itself — as a data processing and measurement tool — is independent of whether FCT is correct.
+> **Important:** This pipeline was built to test a theoretical prediction from FCT, which is a speculative framework (see [THEORIES.md](./THEORIES.md)). The pipeline itself — as a data processing and measurement tool — is independent of whether FCT is correct.
 
 ### Known limitations of the SDSS Cosmic IB analysis
 
@@ -589,6 +589,6 @@ This is one of the most complete projects in the portfolio — a defined physica
 
 ---
 
-*For the theoretical frameworks that motivate some of this work, see [THEORIES.md](docs/THEORIES.md).*  
-*For the broader vision and philosophy behind all of it, see [VISION.md](docs/VISION.md).*  
-*To collaborate or contribute, see [COLLABORATE.md](docs/COLLABORATE.md).*
+*For the theoretical frameworks that motivate some of this work, see [THEORIES.md](./THEORIES.md).*  
+*For the broader vision and philosophy behind all of it, see [VISION.md](./VISION.md).*  
+*To collaborate or contribute, see [COLLABORATE.md](./COLLABORATE.md).*
