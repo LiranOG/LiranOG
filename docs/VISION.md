@@ -1,8 +1,15 @@
 # The Vision
 
-*This document is different from the others.*
-
 [RESEARCH.md](./RESEARCH.md) is a technical inventory. [THEORIES.md](./THEORIES.md) is an honest accounting of speculative frameworks. [COLLABORATE.md](./COLLABORATE.md) is operational. This one is none of those.
+
+>This is not a technical document. It contains no code, no equations, and no benchmarks.
+>This is an intense, deeply personal, and philosophical manifesto about why this portfolio exists, the structural realities of our civilization, and what I think is actually at stake.
+>
+>If you are here strictly to evaluate my engineering skills, physics knowledge, or theoretical frameworks, close this file now and return to `RESEARCH.md` or `THEORIES.md`. You will not miss any technical data.
+>
+>But if you want to understand the human engine behind the code, why I work on these specific problems alone, and are willing to engage with uncomfortable claims about humanity's trajectory — proceed.
+
+*This document is different from the others.*
 
 This is me explaining, in plain language, *why* — why any of this exists, what I actually think is at stake, and what I am trying to say to anyone who has read this far.
 
