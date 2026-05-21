@@ -34,7 +34,7 @@ Each document serves a different purpose and should be evaluated by the standard
 
 For most readers — engineers, physicists, technical reviewers, anyone making a first-pass judgment about whether this portfolio is worth taking seriously — start with:
 
-### **[RESEARCH.md](docs/RESEARCH.md)**
+### **[RESEARCH.md](./RESEARCH.md)**
 
 This is the right entry point because it lets you evaluate the work as engineering before anything else. It opens with universal disclaimers (solo developer, no institutional affiliation, no funding, no external code review — applying to everything below). It then goes through each of the six projects with the same structure: what it is, current validated state, comprehensive known limitations, honest roadmap.
 
