@@ -37,14 +37,16 @@ Agentic AI Orchestration · High Performance Computing · Scientific Simulation 
 
 ---
 
-> [!IMPORTANT]
-> ### Personal Hiatus — May to August 2026
+> [!NOTE]
+> ### Currently Building: Internal Tooling for Multi-Project Workflow
 >
-> I am stepping back from active development for a few months to attend to personal matters. **Nothing has been abandoned** — all repositories remain public, all published artifacts are stable, and I fully intend to return to each project.
+> All of my other projects are currently on pause — not abandoned or
+> forgotten. To work more efficiently going forward, I'm building a
+> project that will help me manage and work across all of my
+> repositories, so I can build and maintain each of them to a much
+> higher standard than before.
 >
-> Replies may be slow or absent during this period. Issues, PRs, and discussions will be read and answered in full when I return.
->
-> 📄 **Full notice with per-project status →** [`docs/HIATUS.md`](./docs/HIATUS.md)
+> More details will be shared here once the tooling is in a usable state.
 >
 > *— Liran M. Schwartz*
 
